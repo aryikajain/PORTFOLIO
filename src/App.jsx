@@ -26,7 +26,7 @@ export default function App() {
           {/* IMAGE */}
           <div className="w-full rounded-3xl overflow-hidden shadow-xl">
             <img
-              src="./photo1.jpg"
+              src="photo1.jpg"
               alt="Profile"
               className="w-full h-[480px] object-cover grayscale hover:grayscale-0 transition-all duration-500"
             />
